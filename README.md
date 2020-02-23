@@ -10,7 +10,7 @@ Usage:
 
 Save subscriptions dump:
 
-<code>python save.py</code>
+<code>python dump.py</code>
 
 Check changes:
 
