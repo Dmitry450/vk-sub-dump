@@ -1,4 +1,4 @@
-from main import get
+from dump import get
 import pickle
 import json
 
